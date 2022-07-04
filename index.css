@@ -1,0 +1,22 @@
+.range1 {
+    display: inline-block;
+    width: 20px;
+    height: 150px;
+    padding: 0;
+  }
+  .range2 {
+    display: inline-block;
+    width: 20px;
+    height: 150px;
+    padding: 0;
+  }
+  .range3 {
+    display: inline-block;
+    width: 20px;
+    height: 150px;
+    padding: 0;
+  }
+  
+  .box{
+    border:2px solid black;
+  }
